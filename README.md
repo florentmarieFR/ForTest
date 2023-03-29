@@ -1,3 +1,3 @@
 # ForTest
 Just a test for now
-TYpe on file
+Type on file
